@@ -1,4 +1,4 @@
-### car-race project
+### A racing-car project
 #### here, we have a simple car racing video game
 
 
@@ -8,7 +8,7 @@
   * [A] -- move left
   * [D] --> move right
    
-  you can control my up down left right buttons
+  you can control car by using up down left right buttons
   * [UP] --> move car in upward direction (along Y axis)
   * [DOWN] --> move car downwards [ along -Y axis]
 
