@@ -1,5 +1,6 @@
 ### A racing-car project
 #### here, we have a simple car racing video game
+#### Library Used: pygame, pygame is simple python based library
 
 
 ### control buttons:
